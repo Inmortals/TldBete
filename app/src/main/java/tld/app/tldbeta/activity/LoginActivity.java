@@ -2,6 +2,7 @@ package tld.app.tldbeta.activity;
 
 import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
+import android.util.Log;
 
 import tld.app.tldbeta.R;
 import tld.app.tldbeta.base.BaseActivity;
@@ -20,7 +21,7 @@ public class LoginActivity extends BaseActivity {
 
     @Override
     public void initView() {
-
+        Log.i("","");
     }
 
     @Override
